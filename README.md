@@ -2,7 +2,7 @@
 А что вы еще ожидали?
 
 Alexandr Gadaychuk  
-Creative, smart and ambitious stusent trying to enter IT sphere.
+Creative and ambitious stusent trying to enter IT sphere.
 
 # Contact info/General information
 **Email:** alexandrga3@gmail.com (Might be slow to respond here)  
