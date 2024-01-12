@@ -15,7 +15,7 @@ Belarussian State University (BSU)
 Bachelor's degree in Applied Mathematics (qualification - "Mathematician-Programmer")  
 September 2022 - June 2026
 
-# Stack
+# Skills
 **C++:**
 * C++19 - intermediate
 * C++98 - novice
