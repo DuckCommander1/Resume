@@ -36,6 +36,8 @@ September 2022 - June 2026
 * Russian language - native
 * English language - advanced (C1)
 * Windows user - intermediate
+* Data structures - intermediate
+* Algorithmes and Graph theory - intermediate
 
 # Passed Courses
 * Version Control with Git, Epam
